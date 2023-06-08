@@ -29,9 +29,9 @@ window.addEventListener('DOMContentLoaded', (event) => {
   resetButton.addEventListener('click', () => {
     container2.innerHTML = '';
     container1.innerHTML = `
-      <div class="item" draggable="true">Item 1</div>
-      <div class="item" draggable="true">Item 2</div>
-      <div class="item" draggable="true">Item 3</div>
+      <div class="item" draggable="true">Laptop</div>
+      <div class="item" draggable="true">Ipad</div>
+      <div class="item" draggable="true">Iphone</div>
     `;
   });
 
